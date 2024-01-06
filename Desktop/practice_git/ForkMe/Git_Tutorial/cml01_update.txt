@@ -1,4 +1,6 @@
-
+//****************************************************************************
+// Update the local and online repository after modifying code
+//****************************************************************************
 
 imac@iMacs-iMac ForkMe % git add .
 imac@iMacs-iMac ForkMe % git status

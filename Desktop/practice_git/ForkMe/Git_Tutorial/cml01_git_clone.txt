@@ -1,8 +1,12 @@
 //****************************************************************************
 // git clone 
 //----------------------------------------------------------------------------
-// You should rename the cloned folder 
-// https://stackoverflow.com/questions/32000525/git-not-adding-existing-folder
+// You should do 2 step before modifying repository, and after git clone 
+ 1. rm -rf .git
+ * A subfolder will not be added with git add . (or similar commands) if it contains a .git dir.
+ * selected the cloned git repository folder, then `rm -rf .git`
+ 2. You should rename the cloned folder 
+ https://stackoverflow.com/questions/32000525/git-not-adding-existing-folder
 //****************************************************************************
 
 imac@iMacs-iMac ForkMe % git clone git@github.com:NihilisticMotif/fork-me.git
