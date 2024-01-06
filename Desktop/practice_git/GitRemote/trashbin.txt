@@ -1,0 +1,14 @@
+// This command shows the input of `git fetch` and `git push` command.
+// In this case, it is my online repository (origin/main)
+ 
+
+Am I understand right?
+ 
+status
+ 
+git merge 
+ 
+ 3. origin/HEAD 
+ 
+In this case there is 3 branch named 'main'.
+ 
