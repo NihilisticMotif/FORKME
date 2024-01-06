@@ -1,0 +1,30 @@
+
+
+imac@iMacs-iMac ForkMe % git add .
+imac@iMacs-iMac ForkMe % git status
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    Git_Tutorial/Reference.txt
+        modified:   Git_Tutorial/cml01_git_clone.txt
+        deleted:    fork-me_io/.github/FUNDING.yml
+        ...
+        deleted:    fork-me_io/zoqueton99/Readme.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../../../.CFUserTextEncoding
+        ...
+        ../../../package.json
+
+imac@iMacs-iMac ForkMe % git commit -m "Delete the cloned project"
+[main ceef515] Delete the cloned project
+ 326 files changed, 7 insertions(+), 1914 deletions(-)
+ delete mode 100644 Desktop/practice_git/ForkMe/Git_Tutorial/Reference.txt
+ ...
+ delete mode 100644 Desktop/practice_git/ForkMe/fork-me_io/zoqueton99/Readme.md
+
+imac@iMacs-iMac ForkMe % git push origin main

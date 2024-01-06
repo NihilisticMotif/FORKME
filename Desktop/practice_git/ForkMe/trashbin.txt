@@ -1,0 +1,450 @@
+        deleted:    fork-me_io/.github/ISSUE_TEMPLATE/bug_report.md
+        deleted:    fork-me_io/.github/ISSUE_TEMPLATE/feature_request.md
+        deleted:    fork-me_io/.github/pull_request_template.md
+        deleted:    fork-me_io/.github/workflows/stale-issue-and-pr.yml
+        deleted:    fork-me_io/03anjali/Readme.md
+        deleted:    fork-me_io/Aaronphilip2003/readme.md
+        deleted:    fork-me_io/Aayushi Kukreja/Readme.md
+        deleted:    fork-me_io/Abenu10/Readme.md
+        deleted:    fork-me_io/AbhiPatel10/readme.md
+        deleted:    fork-me_io/Abhishek Tyagi/README.md
+        deleted:    fork-me_io/Addyk16/Readme.md
+        deleted:    fork-me_io/Adibmuh/readme.md
+        deleted:    fork-me_io/AkposGreatma/README.md
+        deleted:    fork-me_io/Aksh/README.md
+        deleted:    fork-me_io/Aliya032/README.md
+        deleted:    fork-me_io/AlvinManojAlex/README.md
+        deleted:    fork-me_io/AmenaNajeeb/readme.md
+        deleted:    fork-me_io/AmulGaurav/Readme.md
+        deleted:    fork-me_io/Angryman18/readme.md
+        deleted:    fork-me_io/AnishaUdayakumar/Readme.md
+        deleted:    fork-me_io/Appreciate
+        deleted:    fork-me_io/Archismwan Chatterjee/Readme.md
+        deleted:    fork-me_io/AshM10/README.md
+        deleted:    fork-me_io/Ashioya/Readme.md
+        deleted:    fork-me_io/Bellomoro/Readme.md
+        deleted:    fork-me_io/Biaducla/README.md
+        deleted:    fork-me_io/BnayaKahalani/README.md
+        deleted:    fork-me_io/Brand00wn/README.md
+        deleted:    fork-me_io/Bukola-Testimony/1_dXGDvAjiOmctAdDvYP38Ew.gif
+        deleted:    fork-me_io/Bukola-Testimony/readme.md
+        deleted:    fork-me_io/CAG07/readme.md
+        deleted:    fork-me_io/CODE_OF_CONDUCT.md
+        deleted:    fork-me_io/CONTRIBUTING.md
+        deleted:    fork-me_io/ChiragGoyal98/readme.md
+        deleted:    fork-me_io/CorentinGS/Readme.md
+        deleted:    fork-me_io/Cyb3rKn1gh7/readme.md
+        deleted:    fork-me_io/Deepesh/README.md
+        deleted:    fork-me_io/Deepshikhayadav/README.md
+        deleted:    fork-me_io/DeexithParand2k2/README.md
+        deleted:    fork-me_io/DominicBraam/README.md
+        deleted:    fork-me_io/DrakeCullen/README.md
+        deleted:    fork-me_io/Drizzle/Readme.md
+        deleted:    fork-me_io/EWRC01/Readme.md
+        deleted:    fork-me_io/EkeminiDavid/Readme.md
+        deleted:    fork-me_io/Ewwwww/Ew.py
+        deleted:    fork-me_io/Gadzrux/Readme.md
+        deleted:    fork-me_io/GitHub Fork.gif
+        deleted:    fork-me_io/GitHub Fork.png
+        deleted:    fork-me_io/Gokul-R07/README.MD
+        deleted:    fork-me_io/GopalVerma1303/README.md
+        deleted:    fork-me_io/Guha-Pritam/Readme.md
+        deleted:    fork-me_io/Hemant-Lohar/Readme.md
+        deleted:    fork-me_io/HrutikaBadgeri/Readme.md
+        deleted:    fork-me_io/IMTIAZ9085/Readme.md
+        deleted:    fork-me_io/Ibtesum/Readme.md
+        deleted:    fork-me_io/Insharamin/Readme.md
+        deleted:    fork-me_io/JavaVista/Readme.md
+        deleted:    fork-me_io/Jdallos/Readme.md
+        deleted:    fork-me_io/JohnRuben717/Readme.md
+        deleted:    fork-me_io/Joojooo/Hello.png
+        deleted:    fork-me_io/Joojooo/readme.md
+        deleted:    fork-me_io/JosephKeatinge/README.md
+        deleted:    fork-me_io/LICENSE
+        deleted:    fork-me_io/LionnelT/Readme.md
+        deleted:    fork-me_io/MagnerSA/Readme.md
+        deleted:    fork-me_io/MoinCR7/README.md
+        deleted:    fork-me_io/Monetgan/README.md
+        deleted:    fork-me_io/MorpheuxDesign/readme.md
+        deleted:    fork-me_io/Moyomade/README.md
+        deleted:    fork-me_io/MrPurushotam/readme.md
+        deleted:    fork-me_io/Mspurohit15/Readme.md
+        deleted:    fork-me_io/MundaneMelon/Readme.md
+        deleted:    fork-me_io/MurtazaArif2k16/readme.md
+        deleted:    fork-me_io/MustafaKraizim98/Readme.md
+        deleted:    fork-me_io/Mwilembo/Readme.md
+        deleted:    fork-me_io/NathanBriner/readme.md
+        deleted:    fork-me_io/Neeraj/README.md.txt
+        deleted:    fork-me_io/Nettoflix/Readme.md
+        deleted:    fork-me_io/Newsky7/Readme.md
+        deleted:    fork-me_io/NexusNeeraj/Readme.md
+        deleted:    fork-me_io/NihilisticMotif/Readme.md
+        deleted:    fork-me_io/NihilisticMotif/helloworld.js
+        deleted:    fork-me_io/Niravprajapati1/Readme.md
+        deleted:    fork-me_io/Nis7538/Readme.md
+        deleted:    fork-me_io/Odinahon/Readme.md
+        deleted:    fork-me_io/PakaVishwaTeja/Readme.md
+        deleted:    fork-me_io/Pavan-Kamthane/Readme.md
+        deleted:    fork-me_io/PiratePie/README.md
+        deleted:    fork-me_io/Pragati-64/readme.md
+        deleted:    fork-me_io/PranavAvasthi/Readme.md
+        deleted:    fork-me_io/Pratiksha71/Readme.md
+        deleted:    fork-me_io/Preshpi/README.md
+        deleted:    fork-me_io/PriteshKiri/readMe.md
+        deleted:    fork-me_io/Priyadarshini-25/Readme.md
+        deleted:    fork-me_io/README.md
+        deleted:    fork-me_io/RajeshRenato/Readme.md
+        deleted:    fork-me_io/Ravi02205/ReadMe.md
+        deleted:    fork-me_io/Roni/readme.md
+        deleted:    fork-me_io/Roshan Kumar/Readme.md
+        deleted:    fork-me_io/SECURITY.md
+        deleted:    fork-me_io/SHIVANATHRIHARIKRISHNA/Readme.md
+        deleted:    fork-me_io/Sajal123rocky/Readme.md
+        deleted:    fork-me_io/SalmanuRidwan/README.md
+        deleted:    fork-me_io/SamuelShally/readme.md
+        deleted:    fork-me_io/Sannidhya915/Readme.md
+        deleted:    fork-me_io/Santosh31122/Readme.md
+        deleted:    fork-me_io/Sanu1999/readme.md
+        deleted:    fork-me_io/Satarupa22-SD/README (1).md
+        deleted:    fork-me_io/Savijain/Readme.md
+        deleted:    fork-me_io/ShawFromAttock/README.md
+        deleted:    fork-me_io/Shihab/readme.md
+        deleted:    fork-me_io/SnehalSLohar/Readme.md
+        deleted:    fork-me_io/StephenCahillane/README.md
+        deleted:    fork-me_io/StrohmFn/README.md
+        deleted:    fork-me_io/Subhanshu/Readme.md
+        deleted:    fork-me_io/SuchAJif/README.md
+        deleted:    fork-me_io/SuperS-1/README.md
+        deleted:    fork-me_io/Szymek887/README.md
+        deleted:    fork-me_io/THEYASHGAUR/readme.md
+        deleted:    fork-me_io/Tabs/README.md
+        deleted:    fork-me_io/Tejesh18/README.md
+        deleted:    fork-me_io/Thanisthani/README.md
+        deleted:    fork-me_io/TheHolyTachanka/Readme.md
+        deleted:    fork-me_io/Ujjawal179/README.md
+        deleted:    fork-me_io/Umam27/Readme.md
+        deleted:    fork-me_io/VanshikaGupta17/ReadMe.md
+        deleted:    fork-me_io/Varshithab05/Readme.md
+        deleted:    fork-me_io/VerenaBoeke/README.md
+        deleted:    fork-me_io/VertexAssassins/Readme.md
+        deleted:    fork-me_io/Vijay Choudhary/ReadME.txt
+        deleted:    fork-me_io/Vinyas Hegde/Readme.md
+        deleted:    fork-me_io/Vishwas/README.md
+        deleted:    fork-me_io/Waschbaer88/readme.md
+        deleted:    fork-me_io/Yivies/README.md
+        deleted:    fork-me_io/ZarakiKanzaki/README.md
+        deleted:    fork-me_io/Zenith-Mind/Readme.md
+        deleted:    fork-me_io/ZoreAnkit/Readme.md
+        deleted:    fork-me_io/abotmaker/Readme.md
+        deleted:    fork-me_io/agnibhu-1902/README.md
+        deleted:    fork-me_io/ajay020/readme.md
+        deleted:    fork-me_io/ajit2523/Readme.md
+        deleted:    fork-me_io/akshat-rawat/Readme.md
+        deleted:    fork-me_io/alexanderNWO/readme.md
+        deleted:    fork-me_io/allesklardy/Readme.md
+        deleted:    fork-me_io/alpha-hexor/readme.md
+        deleted:    fork-me_io/aman/Readme.md
+        deleted:    fork-me_io/amirafatnassi/readme.md
+        deleted:    fork-me_io/anbarasu97/Readme.md
+        deleted:    fork-me_io/anjana-psvel/README.md
+        deleted:    fork-me_io/anmorgan24/README.md
+        deleted:    fork-me_io/anupamthe99/readme.md
+        deleted:    fork-me_io/anuragjoshi8/readme.md
+        deleted:    fork-me_io/archit__r/README.md
+        deleted:    fork-me_io/ashitizn21/readme.md
+        deleted:    fork-me_io/ashllxyy/readme.md
+        deleted:    fork-me_io/ashtoncross/README.md
+        deleted:    fork-me_io/ave/Readme.md
+        deleted:    fork-me_io/avinishrao/Readme.md
+        deleted:    fork-me_io/barrelboiii/Readme.md
+        deleted:    fork-me_io/bflatt72/README.md
+        deleted:    fork-me_io/bhaveek424/Readme.md
+        deleted:    fork-me_io/bhu_0624/Readme.md
+        deleted:    fork-me_io/britodfbr/README.md
+        deleted:    fork-me_io/britodfbr/__init__.py
+        deleted:    fork-me_io/clarke-n/README.md
+        deleted:    fork-me_io/code4Y/readme.md
+        deleted:    fork-me_io/coder-oj/Readme.md
+        deleted:    fork-me_io/crack-haddock/readme.md
+        deleted:    fork-me_io/cs1402710075/Readme.md
+        deleted:    fork-me_io/danesh-tolani/Readme.md
+        deleted:    fork-me_io/datdev2409/Readme.md
+        deleted:    fork-me_io/deepakdnayak/myself.md
+        deleted:    fork-me_io/dev-jyotshna/Readme.md
+        deleted:    fork-me_io/developergaurav-exe/README.md
+        deleted:    fork-me_io/devsango/Readme.md
+        deleted:    fork-me_io/dilapitan/Readme.md
+        deleted:    fork-me_io/dinanabila/Readme.md
+        deleted:    fork-me_io/divya-koli/Readme.md
+        deleted:    fork-me_io/divyanshu-29-7/READM.md
+        deleted:    fork-me_io/dlanell/Readme.md
+        deleted:    fork-me_io/e_costalmeida/README.md
+        deleted:    fork-me_io/eclairsameal/Readme.md
+        deleted:    fork-me_io/femiabimbola/Readme.md
+        deleted:    fork-me_io/fitz-tenera/readme.md
+        deleted:    fork-me_io/flagage/Readme.md
+        deleted:    fork-me_io/fork-me-premz/README.md
+        deleted:    fork-me_io/fork-practice/Readme.md
+        deleted:    fork-me_io/galisrikanth19/Readme.md
+        deleted:    fork-me_io/ganeshpatil386386/Readme.md
+        deleted:    fork-me_io/govind/readmegovind.md
+        deleted:    fork-me_io/green-roots-greener/Readme.md
+        deleted:    fork-me_io/green-roots/Readme.md
+        deleted:    fork-me_io/gulamanas/ReadME.md
+        deleted:    fork-me_io/gunjany/ReadMe.md.txt
+        deleted:    fork-me_io/haldaranup/README.md
+        deleted:    fork-me_io/hamid-reza67/readme.md
+        deleted:    fork-me_io/hasiburdev/README.md
+        deleted:    fork-me_io/hello-weilei/readme.md
+        deleted:    fork-me_io/henryniama/read.md
+        deleted:    fork-me_io/hritsaha/readme.md
+        deleted:    fork-me_io/hsshin81/Readme.md
+        deleted:    fork-me_io/iishutov/Readme.md
+        deleted:    fork-me_io/ike-albert/Readme.md
+        deleted:    fork-me_io/irfanmit/Readme.md
+        deleted:    fork-me_io/ishika-gupta21/readme.md
+        deleted:    fork-me_io/ismilesardar/README.md
+        deleted:    fork-me_io/its-hmtu/README.md
+        deleted:    fork-me_io/its-satyam/readme.md
+        deleted:    fork-me_io/jagroopNatt/Readme.md
+        deleted:    fork-me_io/jakaya123/Readme.md
+        deleted:    fork-me_io/jay/Readme.md
+        deleted:    fork-me_io/jbeed33/Readme.md
+        deleted:    fork-me_io/jiayao99/README.md
+        deleted:    fork-me_io/john121904/Readme.md
+        deleted:    fork-me_io/jordillps/Readme.md
+        deleted:    fork-me_io/josephplpriest/README.md
+        deleted:    fork-me_io/jrbaprz/README.md
+        deleted:    fork-me_io/jrsmarcilio/README.md
+        deleted:    fork-me_io/juliAlbea/Readme.md
+        deleted:    fork-me_io/justkingsley/Readme.md
+        deleted:    fork-me_io/kara751/README.md
+        deleted:    fork-me_io/karanheart96/README.md
+        deleted:    fork-me_io/kazoni/Readme.md
+        deleted:    fork-me_io/kd100100/README.MD
+        deleted:    fork-me_io/kelrichardson/readme.md
+        deleted:    fork-me_io/kiachoi/README.md
+        deleted:    fork-me_io/kinlearn/README.md
+        deleted:    fork-me_io/kmal808/Readme.md
+        deleted:    fork-me_io/kritikashrmaa/Readme.md
+        deleted:    fork-me_io/kunalkr0007/Reame.md
+        deleted:    fork-me_io/lizi-garden/Readme.md
+        deleted:    fork-me_io/lnellyee/Readme.md
+        deleted:    fork-me_io/ludovicobesana/README.md
+        deleted:    fork-me_io/luvittor/Readme.md
+        deleted:    fork-me_io/mabintn/Readme.md
+        deleted:    fork-me_io/margarethdevina/readme.md
+        deleted:    fork-me_io/marjorinec/Readme.md
+        deleted:    fork-me_io/matt0hug/Readme.md.md
+        deleted:    fork-me_io/mfirdaus324/README.md
+        deleted:    fork-me_io/mhabdulbaaki/README.md
+        deleted:    fork-me_io/mikedev23/Readme.md
+        deleted:    fork-me_io/mjkstra/README.md
+        deleted:    fork-me_io/mkhuzaima/README.md
+        deleted:    fork-me_io/mmarinezthewizard/README.md
+        deleted:    fork-me_io/mohammadanang/README.md
+        deleted:    fork-me_io/mohanishrane/Readme.md
+        deleted:    fork-me_io/namit343/readme.md
+        deleted:    fork-me_io/naveenkumarj/README.MD
+        deleted:    fork-me_io/neekuankok/Readme.md
+        deleted:    fork-me_io/neelima/README.md
+        deleted:    fork-me_io/neocollege/README.md
+        deleted:    fork-me_io/nishasen/readme.md
+        deleted:    fork-me_io/nishat2192/readme.md
+        deleted:    fork-me_io/ohhisara/README.md
+        deleted:    fork-me_io/ouzdev/Readme.md
+        deleted:    fork-me_io/owenhelios/README.md
+        deleted:    fork-me_io/pathakharsh123/READ.md
+        deleted:    fork-me_io/patrickpsantos/Readme.md
+        deleted:    fork-me_io/pranjaljaiswal10/Readme.md
+        deleted:    fork-me_io/prashantkumarll/README.md
+        deleted:    fork-me_io/prathapmohan27/README.md
+        deleted:    fork-me_io/preciousfolder/README.md
+        deleted:    fork-me_io/preeya/ReadMe.md
+        deleted:    fork-me_io/priyanshu/readme.md
+        deleted:    fork-me_io/ptrjs/Readme.md
+        deleted:    fork-me_io/raghav-a-gupta/README.md
+        deleted:    fork-me_io/ramgopalio/Readme.md
+        deleted:    fork-me_io/reboot202209/Readme.md
+        deleted:    fork-me_io/redblame315/readme.txt
+        deleted:    fork-me_io/riccardodicurti/README.md
+        deleted:    fork-me_io/riya-gandhi/ReadMe.md
+        deleted:    fork-me_io/rjc0404/Readme.md
+        deleted:    fork-me_io/rsnytl/readme.md
+        deleted:    fork-me_io/saatvik25/Readme.md
+        deleted:    fork-me_io/sagacious-satadru/README.md
+        deleted:    fork-me_io/sagarPakhrin/README.md
+        deleted:    fork-me_io/saikiranbilla/readme.md.txt
+        deleted:    fork-me_io/sakilahmmad71/README.md
+        deleted:    fork-me_io/saksham/readme.md
+        deleted:    fork-me_io/saksham08jain/readme.md
+        deleted:    fork-me_io/sam5epi0l/README.md
+        deleted:    fork-me_io/sanim16/README.md
+        deleted:    fork-me_io/santanunath/readme.md
+        deleted:    fork-me_io/sanusisusi/README.md
+        deleted:    fork-me_io/sc123hk/Readme.md
+        deleted:    fork-me_io/scallionsteak/readme.md
+        deleted:    fork-me_io/se_izzuddin/README.md
+        deleted:    fork-me_io/sfsajid91/README.md
+        deleted:    fork-me_io/shaderone/README.md
+        deleted:    fork-me_io/siddhipatade/Readme.md
+        deleted:    fork-me_io/sifytul/readme.md
+        deleted:    fork-me_io/snkt007/Readme.md
+        deleted:    fork-me_io/sourabhmahato/README.md
+        deleted:    fork-me_io/sourabhyadav/About.md
+        deleted:    fork-me_io/spudnik/readme.MD
+        deleted:    fork-me_io/sri/testing.txt
+        deleted:    fork-me_io/srujangundeti/Readme.md
+        deleted:    fork-me_io/stanikl/Readme.md
+        deleted:    fork-me_io/sunruiting/readme.md
+        deleted:    fork-me_io/swagnik139/README.md
+        deleted:    fork-me_io/swarajzz/README.md
+        deleted:    fork-me_io/sweetyA1/deadpool.md
+        deleted:    fork-me_io/szlima/Readme.md
+        deleted:    fork-me_io/ta1itha/readMe.md
+        deleted:    fork-me_io/tejasnopany/contribute.md
+        deleted:    fork-me_io/theGaryLarson/README.md
+        deleted:    fork-me_io/thicha0/Readme.md
+        deleted:    fork-me_io/varshini901/Readme.md
+        deleted:    fork-me_io/varunrmantri23/Readme.md
+        deleted:    fork-me_io/vcnovaes/README.md
+        deleted:    fork-me_io/vineetatiwari27/README.md
+        deleted:    fork-me_io/vjsaini75/readme.md
+        deleted:    fork-me_io/vku75/readme.md
+        deleted:    fork-me_io/vladimirsk825/Readme.md.txt
+        deleted:    fork-me_io/vp-web-developer/README.md
+        deleted:    fork-me_io/walter-lequoa/Readme.md
+        deleted:    fork-me_io/wangqiankun955/Readme.md
+        deleted:    fork-me_io/x3shat/readme.md
+        deleted:    fork-me_io/yeybabyes/READMEme.md
+        deleted:    fork-me_io/yugdr/Readme.md
+        deleted:    fork-me_io/yuvraj108c/Readme.md
+        deleted:    fork-me_io/zaratedev/readme.md
+ 
+        ../../../.DS_Store
+        ../../../.IdentityService/
+        ../../../.PenTablet/
+        ../../../.Rhistory
+        ../../../.android/
+        ../../../.atom/
+        ../../../.bash_history
+        ../../../.bash_profile
+        ../../../.bash_profile.swo
+        ../../../.bash_profile.swp
+        ../../../.boto
+        ../../../.cache/
+        ../../../.conda/
+        ../../../.config/
+        ../../../.cups/
+        ../../../.dotnet/
+        ../../../.dropbox/
+        ../../../.gitconfig
+        ../../../.gitignore
+        ../../../.gsutil/
+        ../../../.idlerc/
+        ../../../.ipython/
+        ../../../.jupyter/
+        ../../../.keras/
+        ../../../.kivy/
+        ../../../.lesshst
+        ../../../.local/
+        ../../../.matplotlib/
+        ../../../.mono/
+        ../../../.ms_eclipsetemurinjdk_config
+        ../../../.mysql_history
+        ../../../.node_repl_history
+        ../../../.npm/
+        ../../../.nuget/
+        ../../../.nvm/
+        ../../../.octave_hist
+        ../../../.plastic4/
+        ../../../.python_history
+        ../../../.rest-client/
+        ../../../.ssh/
+        ../../../.swiftpm/
+        ../../../.tcshrc
+        ../../../.templateengine/
+        ../../../.thumbnails/
+        ../../../.viminfo
+        ../../../.vscode-react-native/
+        ../../../.vscode/
+        ../../../.xonshrc
+        ../../../.yarn/
+        ../../../.yarnrc
+        ../../../.zprofile
+        ../../../.zprofile.macports-saved_2022-02-23_at_21:56:55
+        ../../../.zprofile.pysave
+        ../../../.zsh_history
+        ../../../.zsh_sessions/
+        ../../../.zshrc
+        ../../../.zshrc.backup
+        ../../../171.101.105.21
+        ../../../App.xaml
+        ../../../App.xaml.cs
+        ../../../Applications/
+        ../../../Desktop (1)
+        ../../.DS_Store
+        ../../.localized
+        ../../.sfml.cpp.swp
+        ../../.vscode/
+        ../../2005_eng.pdf
+        ../../A01.jpeg
+        ../../AppTutorial/
+        ../../BasedComponent/
+        ../../Calculus_Image/
+        ../../FFTImg.png
+        ../../FFTNoice.png
+        ../../HelloDio.jpeg
+        ../../Installation/
+        ../../IntroduceMyself/
+        ../../JJCR.png
+        ../../JOCR.png
+        ../../JojoSoba/
+        ../../LopburiMeme.png
+        ../../NUS/
+        ../../NUS_SOC_AML Required Assignment 13 Model Answer.ipynb
+        ../../NihilisticMotif_2014/
+        ../../Orange3-3.36.1-Python3.9.12-arm64.dmg
+        ../../Orange3-3.36.1-Python3.9.12.dmg
+        ../../Photo/
+        ../../SoloOpenSourceProject/
+        ../../Unactivated/
+        ../../Users:imac:Desktop:JojoSoba.textClipping
+        ../../Utility_2022/
+        ../../b3e1edde-fd4c-477e-90a7-9fd88d0fa780 (1).csv
+        ../../fraskapp.png
+        ../../jojojo.png
+        ../.DS_Store
+        ../GitRemote/
+        ../WorldHistory/
+        ../pythagorean_triples/
+        "../../\340\271\200\340\270\243\340\270\267\340\271\210\340\270\255\340\270\207\340\270\252\340\271\210\340\270\247\340\270\231\340\270\225\340\270\261\340\270\247/"
+        ../../../DesmosBezierRenderer/
+        ../../../Documents/
+        ../../../Downloads/
+        ../../../Library/
+        ../../../MainPage.xaml
+        ../../../MainPage.xaml.cs
+        ../../../MauiProgram.cs
+        ../../../Movies/
+        ../../../Music/
+        ../../../Pictures/
+        ../../../Platforms/
+        ../../../Properties/
+        ../../../Public/
+        ../../../Resources/
+        ../../../Terminal
+        ../../../Utilities-
+        ../../../dddd.txt
+        ../../../dumps/
+        ../../../ex6.py
+        ../../../google-cloud-sdk/
+        ../../../imac.csproj
+        ../../../imac.sln
+        ../../../localhost
+        ../../../micromamba/
+        ../../../miniconda3/
+        ../../../npm
+        ../../../opt/
+        ../../../package-lock.json
+ 
