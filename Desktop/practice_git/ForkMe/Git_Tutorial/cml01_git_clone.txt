@@ -1,3 +1,10 @@
+//****************************************************************************
+// git clone 
+//----------------------------------------------------------------------------
+// You should rename the cloned folder 
+// https://stackoverflow.com/questions/32000525/git-not-adding-existing-folder
+//****************************************************************************
+
 imac@iMacs-iMac ForkMe % git clone git@github.com:NihilisticMotif/fork-me.git
 Cloning into 'fork-me'...
 remote: Enumerating objects: 2105, done.
